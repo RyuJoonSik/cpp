@@ -1,0 +1,5 @@
+﻿  initConstMember.cpp
+P:\Study\c++\template1\initConstMember.cpp(15,10): error C2664: 'Some::Some(const Some &)': 인수 1을(를) 'int'에서 'const Some &'(으)로 변환할 수 없습니다.
+P:\Study\c++\template1\initConstMember.cpp(15,10): message : 원인: 'int'에서 'const Some'(으)로 변환할 수 없습니다.
+P:\Study\c++\template1\initConstMember.cpp(15,10): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+P:\Study\c++\template1\initConstMember.cpp(10,1): message : 'Some::Some' 선언을 참조하십시오.
